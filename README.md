@@ -3,4 +3,4 @@ A virtual digital circuit simulator that enables user to drag and drop board com
 
 ## Digital Board
 Basic board components are provided as well as the description of each component when hovered above the specific widget.
-<img src="https://user-images.githubusercontent.com/47154880/63637243-99df5f80-c6a4-11e9-9a3d-c3bce28bcca9.jpg">
+<img src="https://user-images.githubusercontent.com/47154880/63637284-3275df80-c6a5-11e9-847f-fb707419b085.jpg">
