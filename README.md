@@ -1,4 +1,4 @@
-# Digital-Circuit-Simulator
+# Connected-Digital-Circuit-Simulator
 A virtual digital circuit simulator that enables user to drag and drop board components to connect and see the output as well as the formula of the generated circuit.
 
 ## Digital Board
