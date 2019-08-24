@@ -1,0 +1,19 @@
+Switch/Controls the open-ness or closed-ness of an electric circuit.
+Button/Emits active high input once clicked.
+LED/Lights up when the input is active high.
+Output/Shows the value of the logic circuit. Digital outputs are often used to control other electrical devices.
+HalfAdder/The half adder adds two one-bit binary numbers. The output is the sum and carry.
+HalfSubtractor/The subtraction of 2 binary digits also produces two outputs which are termed as difference and borrow.
+FullAdder/Adder which adds three inputs and produces two outputs. The first two inputs are A and B and the third input is an input carry as C-IN.
+FullSubtractor/This circuit has three inputs and two outputs. The three inputs are bit one, bit two, and Bin.
+Encoder/Performs the reverse operation of Decoder. It will produce a binary code equivalent to the input.
+Decoder/The outputs of the decoder are nothing but the min terms of input variables.
+Multiplexer/Combinational logic circuit designed to switch one of several input lines through to a single common output line by the application of a control signal.
+Demultiplexer/Combinational logic circuit designed to switch one common input line to one of several seperate output line.
+NotGate/Most basic of all the logical gates and is often referred to as an Inverting Buffer or simply an Inverter. It inverts the input.
+OrGate/The OR gate is an electronic circuit that gives a high output 1 if one or more of its inputs are high.
+AndGate/The AND gate is an electronic circuit that gives a high output 1 only if all its inputs are high.
+XorGate/The output of an XOR gate is true only when exactly one of its inputs is true.
+NorGate/The inclusive NOR gate has an output that is normally at logic level 1 and only goes LOW to logic level 0 when ANY of its inputs are at logic level 1.
+NandGate/The NAND gate has an output that is normally at logic level 1 and only goes LOW to logic level 0 when ALL of its inputs are at logic level 1.
+XnorGate/The output of an XNOR gate is true when all of its inputs are true or when all of its inputs are false.
